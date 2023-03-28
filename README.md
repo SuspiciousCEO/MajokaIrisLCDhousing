@@ -4,8 +4,12 @@
 
 マジョカアイリスの液晶基板をゆるっとカバーするケースの3Dプリンター向けの立体データーです。
 
+![2022-12-31_14-04-32_312](https://user-images.githubusercontent.com/88123439/228248104-08032806-3e4b-4f50-a452-79e490e80f6a.jpg)
+
 マジョカアイリスとはなんぞや？という方は、だいたいの流れは以下を参照してください。
+
 https://github.com/htlabnet/inside_magimajopures/wiki
+
 
 # 精度はそれなりだよ。
 
